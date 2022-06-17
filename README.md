@@ -18,7 +18,7 @@ The task this week was to build a CMS-style blog site similar to a Wordpress sit
 Since this isn't a deployed application, you must Git Clone or Fork from the Repo and run on your local machine.
 
 Here is the deployed link:
-[Deployed](https://warm-badlands-35959.herokuapp.com/)
+[Deployed](https://damp-wave-90994.herokuapp.com/)
 
 ## Usage
 
